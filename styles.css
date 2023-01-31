@@ -1,0 +1,24 @@
+
+
+
+body {
+    background-color: #EEF2F5;
+}
+
+h1{
+    color: #EA168E;
+    
+}
+
+h2{
+    color: #612570;
+}
+
+hr {
+    border-bottom-color: #EA168E ;
+    border-style: none;
+    border-bottom-style: dotted;
+    border-width: 5px;
+    width: 5%;
+}
+
